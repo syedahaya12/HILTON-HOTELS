@@ -1,0 +1,23 @@
+[14-Aug-2025 16:35:55 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/index.php on line 572
+[14-Aug-2025 18:16:47 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php:747
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 747
+[15-Aug-2025 09:11:07 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/index.php on line 572
+[15-Aug-2025 09:11:32 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php:747
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 747
+[15-Aug-2025 13:54:28 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/index.php on line 572
+[15-Aug-2025 13:59:28 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 857
+[15-Aug-2025 13:59:47 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 857
+[15-Aug-2025 14:03:30 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 857
+[02-Sep-2025 16:28:31 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/index.php on line 572
+[02-Sep-2025 16:28:38 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 5
+[02-Sep-2025 16:28:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 5
+[02-Sep-2025 16:29:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 5
+[02-Sep-2025 16:29:48 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/index.php on line 572
+[02-Sep-2025 16:29:53 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 5
+[04-Sep-2025 13:06:16 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/index.php on line 572
+[04-Sep-2025 13:06:44 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 5
+[04-Sep-2025 19:29:42 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/customer/www/rsoa110.millioncoders.net/public_html/HILTON_HOTELS/hotels.php on line 5
